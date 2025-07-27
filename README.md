@@ -1,7 +1,7 @@
 # HackerRank-Python-Problem-Solving
 
 Welcome to my collection of Python solutions for HackerRank's **Problem Solving** and **Python domain challenges**.  
-This repository contains over **30+ solved problems**, categorized by topic, and written in Python. I’ve earned the **Python (Basic) Certificate** and achieved **5 stars** in Python on HackerRank 🏅.
+This repository contains over **50+ solved problems**, categorized by topic, and written in Python. I’ve earned the **Python (Basic) Certificate** and achieved **5 stars** in Python on HackerRank 🏅.
 
 ---
 
